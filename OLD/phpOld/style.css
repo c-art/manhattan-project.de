@@ -1,0 +1,18 @@
+BODY      {SCROLLBAR-FACE-COLOR: #3333CC; MARGIN: 10px; SCROLLBAR-HIGHLIGHT-COLOR: #3333CC; SCROLLBAR-SHADOW-COLOR: #3333CC; SCROLLBAR-3DLIGHT-COLOR: #000000; SCROLLBAR-ARROW-COLOR: #ffffff; SCROLLBAR-TRACK-COLOR: #4d4d4d; SCROLLBAR-DARKSHADOW-COLOR: #000000; BACKGROUND-COLOR: #808080;}
+.menu     {font-family:verdana; font-size: 8pt; color:#cc8800; text-decoration: none; font-weight: normal;}
+.menu:hover {font-family:verdana; font-size: 8pt; color:#ffd580; text-decoration: none; font-weight: bold;}
+.alink    {font-family: verdana,helvetica,sans-serif; font-size: 7pt; color:#000000; text-decoration: none;}
+
+b:link    {FONT-WEIGHT: bold; COLOR: #cc8800; font-size: 10pt; TEXT-DECORATION: none}
+b:visited {FONT-WEIGHT: bold; COLOR: #a36d00; font-size: 10pt; TEXT-DECORATION: none}
+b:active  {FONT-WEIGHT: bold; COLOR: #ffaa00; font-size: 10pt; TEXT-DECORATION: none}
+b:hover   {FONT-WEIGHT: bold; COLOR: #ffd580; font-size: 10pt; TEXT-DECORATION: none}
+
+IMG {BORDER-LEFT-COLOR: #000000; BORDER-BOTTOM-COLOR: #000000; BORDER-TOP-COLOR: #000000; BORDER-RIGHT-COLOR: #000000}
+   .gentable {BORDER-RIGHT: #000000 1px solid; PADDING-RIGHT: 0px; BORDER-TOP: #000000 1px solid; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; BORDER-LEFT: #000000 1px solid; WIDTH: 90%; PADDING-TOP: 0px; BORDER-BOTTOM: #000000 1px solid; BACKGROUND-COLOR: #d4d0c8}
+   .imagewindow {BORDER-RIGHT: 0px; PADDING-RIGHT: 10px; BORDER-TOP: 0px; PADDING-LEFT: 10px; FONT-SIZE: 70%; PADDING-BOTTOM: 4px; MARGIN: 0px; BORDER-LEFT: 0px; WIDTH: 90%; COLOR: #333333; PADDING-TOP: 4px; BORDER-BOTTOM: 0px; FONT-FAMILY: Tahoma, Arial, sans-serif; BACKGROUND-COLOR: #d4d0c8; TEXT-ALIGN: center}
+   .window   {BORDER-RIGHT: 0px; PADDING-RIGHT: 10px; BORDER-TOP: 0px; PADDING-LEFT: 10px; FONT-SIZE: 70%; PADDING-BOTTOM: 4px; MARGIN: 0px; BORDER-LEFT: 0px; WIDTH: 90%; COLOR: #333333; PADDING-TOP: 4px; BORDER-BOTTOM: 0px; FONT-FAMILY: Tahoma, Arial, sans-serif; BACKGROUND-COLOR: #d4d0c8; TEXT-ALIGN: justify; spacing: 0}
+   .cellcolor {BORDER-TOP-WIDTH: 1px; PADDING-RIGHT: 1px; PADDING-LEFT: 4px; BORDER-LEFT-WIDTH: 1px; PADDING-BOTTOM: 1px; MARGIN: 0px; WIDTH: 90%; PADDING-TOP: 1px; BORDER-BOTTOM: #000000 1px solid; BACKGROUND-COLOR: #ffaa00; BORDER-RIGHT-WIDTH: 1px}
+   .navlink {FONT-SIZE: 70%; FONT-FAMILY: Tahoma, Arial}
+   .title   {FONT-WEIGHT: bold; FONT-SIZE: 70%; COLOR: #ffffff; FONT-FAMILY: Tahoma, Arial, sans-serif}
+   .date    {FONT-SIZE: 65%; COLOR: #ffffff; FONT-FAMILY: Tahoma, Arial, sans-serif}
